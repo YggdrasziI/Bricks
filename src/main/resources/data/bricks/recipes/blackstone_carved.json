@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "###",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "bricks:blackstone_bricks"
+        }
+    },
+    "result": {
+        "item": "bricks:blackstone_carved",
+        "count": 5
+    }
+}

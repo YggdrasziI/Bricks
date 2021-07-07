@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "bricks:blocks/green_quartz_carved"
+  }
+}

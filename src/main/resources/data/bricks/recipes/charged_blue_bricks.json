@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#%#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "bricks:blue_nether_bricks"
+        },
+        "%": {
+            "item": "bricks:conductive_dust"
+        }
+    },
+    "result": {
+        "item": "bricks:charged_blue_bricks",
+        "count": 8
+    }
+}

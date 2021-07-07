@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:gems/quartz",
+    "#forge:gems/pink_quartz",
+    "#forge:gems/green_quartz",
+    "#forge:gems/red_quartz",
+    "#forge:gems/smoky_quartz"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "minecraft:end_stone"
+    },
+    "result": "bricks:end_stone_polished",
+    "experience": 0.6,
+    "cookingtime": 100
+}

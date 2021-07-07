@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#%#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "bricks:plastic_orange"
+        },
+        "%": {
+            "item": "minecraft:glowstone_dust"
+        }
+    },
+    "result": {
+        "item": "bricks:plastic_glow_orange",
+        "count": 8
+    }
+}

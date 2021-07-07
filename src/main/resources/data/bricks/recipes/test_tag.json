@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "# #",
+        "%%%"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:apple"
+        },
+        "%": {
+            "tag": "forge:ores/quartz"
+        }
+    },
+    "result": {
+        "item": "bricks:andesite_bordered",
+        "count": 8
+    }
+}

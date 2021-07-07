@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#%#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:glowstone"
+        },
+        "%": {
+            "item": "minecraft:pink_dye"
+        }
+    },
+    "result": {
+        "item": "bricks:glowstone_pink",
+        "count": 8
+    }
+}

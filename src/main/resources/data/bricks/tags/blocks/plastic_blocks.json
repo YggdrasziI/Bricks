@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "#bricks:plastic_blocks/plastic",
+    "#bricks:plastic_blocks/glow"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "bricks:glow_glass_blue",
+    "bricks:glow_glass_black",
+    "bricks:glow_glass_brown",
+    "bricks:glow_glass_cyan",
+    "bricks:glow_glass_gray",
+    "bricks:glow_glass_green",
+    "bricks:glow_glass_light_blue",
+    "bricks:glow_glass_light_gray",
+    "bricks:glow_glass_lime",
+    "bricks:glow_glass_magenta",
+    "bricks:glow_glass_orange",
+    "bricks:glow_glass_pink",
+    "bricks:glow_glass_purple",
+    "bricks:glow_glass_red",
+    "bricks:glow_glass_white",
+    "bricks:glow_glass_yellow"
+  ]
+}

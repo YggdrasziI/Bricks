@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "###",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "bricks:diorite_bricks"
+        }
+    },
+    "result": {
+        "item": "bricks:diorite_carved",
+        "count": 5
+    }
+}

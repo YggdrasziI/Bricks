@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:ingots/glowstone_brick",
+    "#forge:ingots/asgardium",
+    "#forge:ingots/allabogdanite",
+    "#forge:ingots/yggdrasil"
+  ]
+}

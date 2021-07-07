@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "bricks:asgardium_block"
+        }
+    ],
+    "result": {
+        "item": "bricks:asgardium_ingot",
+        "count": 9
+    }
+}

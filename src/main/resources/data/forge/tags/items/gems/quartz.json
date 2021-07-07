@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "bricks:pink_quartz",
+    "bricks:red_quartz",
+    "bricks:green_quartz",
+    "bricks:smoky_quartz"
+  ]
+}

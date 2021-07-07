@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#%#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:bamboo"
+        },
+        "%": {
+            "item": "minecraft:glass"
+        }
+    },
+    "result": {
+        "item": "bricks:bamboo_glass",
+        "count": 1
+    }
+}

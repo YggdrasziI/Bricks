@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "bricks:glowstone_purple"
+    },
+    "result": "bricks:glow_glass_purple",
+    "experience": 0.6,
+    "cookingtime": 100
+}

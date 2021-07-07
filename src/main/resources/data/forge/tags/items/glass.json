@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:glass/colorless",
+    "#forge:glass/quartz",
+    "#forge:glass/quartz_pink",
+    "#forge:glass/quartz_green",
+    "#forge:glass/quartz_red",
+    "#forge:glass/quartz_smoky",
+    "#forge:stained_glow_glass",
+    "#forge:glass/scribe"
+  ]
+}

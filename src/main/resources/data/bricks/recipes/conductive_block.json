@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "bricks:conductive_dust"
+        }
+    },
+    "result": {
+        "item": "bricks:conductive_block",
+        "count": 1
+    }
+}

@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:nuggets/asgardium",
+    "#forge:nuggets/allabogdanite",
+    "#forge:nuggets/yggdrasil"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "bricks:quartz_overworld_ore",
+    "bricks:pink_quartz_ore",
+    "bricks:red_quartz_ore",
+    "bricks:green_quartz_ore",
+    "bricks:smoky_quartz_ore"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values":
+	[
+		"bricks:scribe_glass",
+		"bricks:scribe_glass_vertical_down",
+		"bricks:scribe_glass_vertical_up"
+	]
+}

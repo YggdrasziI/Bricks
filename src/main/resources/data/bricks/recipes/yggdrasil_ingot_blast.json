@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "bricks:yggdrasil_alloy"
+    },
+    "result": "bricks:yggdrasil_ingot",
+    "experience": 0.9,
+    "cookingtime": 300
+}

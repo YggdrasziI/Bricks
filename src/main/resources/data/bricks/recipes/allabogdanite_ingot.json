@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "bricks:allabogdanite_block"
+        }
+    ],
+    "result": {
+        "item": "bricks:allabogdanite_ingot",
+        "count": 9
+    }
+}

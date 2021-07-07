@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "bricks:rubber"
+    },
+    "result": "bricks:plastic",
+    "experience": 0.6,
+    "cookingtime": 75
+}

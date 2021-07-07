@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "bricks:conductive_block"
+        }
+    ],
+    "result": {
+        "item": "bricks:conductive_dust",
+        "count": 9
+    }
+}

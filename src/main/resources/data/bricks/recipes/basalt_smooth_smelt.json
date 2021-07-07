@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "minecraft:polished_basalt"
+    },
+    "result": "bricks:basalt_smooth",
+    "experience": 0.6,
+    "cookingtime": 100
+}

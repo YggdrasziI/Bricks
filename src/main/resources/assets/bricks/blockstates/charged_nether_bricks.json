@@ -1,0 +1,5 @@
+{
+	"variants": {
+		"": { "model": "bricks:block/charged_nether_bricks" }
+	}
+}

@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#%#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "bricks:plastic"
+        },
+        "%": {
+            "item": "minecraft:pink_dye"
+        }
+    },
+    "result": {
+        "item": "bricks:plastic_pink",
+        "count": 8
+    }
+}

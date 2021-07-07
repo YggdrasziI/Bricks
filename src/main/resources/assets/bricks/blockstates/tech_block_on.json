@@ -1,0 +1,5 @@
+{
+	"variants": {
+		"": { "model": "bricks:block/tech_block_on" }
+	}
+}

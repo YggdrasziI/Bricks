@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#%#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "bricks:glowstone_bricks"
+        },
+        "%": {
+            "item": "minecraft:green_dye"
+        }
+    },
+    "result": {
+        "item": "bricks:glowstone_bricks_green",
+        "count": 8
+    }
+}

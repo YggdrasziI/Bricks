@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#%#",
+        "% %",
+        "#%#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:stone"
+        },
+        "%": {
+            "item": "bricks:conductive_dust"
+        }
+    },
+    "result": {
+        "item": "bricks:engine_block_on",
+        "count": 4
+    }
+}

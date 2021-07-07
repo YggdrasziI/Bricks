@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "bricks:quartz_sand_pink"
+    },
+    "result": "bricks:quartz_glass_pink",
+    "experience": 0.6,
+    "cookingtime": 100
+}

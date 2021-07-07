@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:ores/quartz",
+    "#forge:ores/pink_quartz",
+    "#forge:ores/green_quartz",
+    "#forge:ores/red_quartz",
+    "#forge:ores/smoky_quartz",
+    "#forge:ores/asgardium",
+    "#forge:ores/allabogdanite"
+  ]
+}

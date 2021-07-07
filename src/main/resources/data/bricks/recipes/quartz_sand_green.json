@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#%",
+        "%#"
+    ],
+    "key": {
+        "#": {
+            "tag": "forge:sand"
+        },
+        "%": {
+            "tag": "forge:gems/green_quartz"
+        }
+    },
+    "result": {
+        "item": "bricks:quartz_sand_green",
+        "count": 2
+    }
+}

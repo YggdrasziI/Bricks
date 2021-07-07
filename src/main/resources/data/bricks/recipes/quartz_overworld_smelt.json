@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "bricks:quartz_overworld_ore"
+    },
+    "result": "minecraft:quartz",
+    "experience": 0.6,
+    "cookingtime": 100
+}

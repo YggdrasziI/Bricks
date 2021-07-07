@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "bricks:plastic_black",
+    "bricks:plastic_blue",
+    "bricks:plastic_brown",
+    "bricks:plastic_cyan",
+    "bricks:plastic_gray",
+    "bricks:plastic_green",
+    "bricks:plastic_light_blue",
+    "bricks:plastic_light_gray",
+    "bricks:plastic_lime",
+    "bricks:plastic_magenta",
+    "bricks:plastic_orange",
+    "bricks:plastic_pink",
+    "bricks:plastic_purple",
+    "bricks:plastic_red",
+    "bricks:plastic_white",
+    "bricks:plastic_yellow"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "minecraft:purpur_block"
+    },
+    "result": "bricks:purpur_polished",
+    "experience": 0.6,
+    "cookingtime": 100
+}

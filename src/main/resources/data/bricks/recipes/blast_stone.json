@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#%#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "tag": "forge:stone"
+        },
+    "%": {
+            "tag": "forge:ingots/iron"
+        }
+    },
+    "result": {
+        "item": "bricks:blast_stone",
+        "count": 8
+    }
+}

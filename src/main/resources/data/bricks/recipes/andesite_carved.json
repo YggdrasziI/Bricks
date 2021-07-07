@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "###",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "bricks:andesite_bricks"
+        }
+    },
+    "result": {
+        "item": "bricks:andesite_carved",
+        "count": 5
+    }
+}

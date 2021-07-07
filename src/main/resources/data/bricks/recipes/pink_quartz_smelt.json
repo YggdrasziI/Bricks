@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "bricks:pink_quartz_ore"
+    },
+    "result": "bricks:pink_quartz",
+    "experience": 0.6,
+    "cookingtime": 100
+}

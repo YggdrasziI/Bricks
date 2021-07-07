@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#%#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:sugar_cane"
+        },
+        "%": {
+            "item": "minecraft:glass"
+        }
+    },
+    "result": {
+        "item": "bricks:sugar_cane_glass",
+        "count": 1
+    }
+}
